@@ -1,0 +1,11 @@
+/build/
+/out/
+*.o
+*.obj
+*.exe
+calcpedia
+.vs/
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile.bak
